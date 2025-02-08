@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    font-size: 16px;
+    color: #3d3d3d;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table2 tr {
+    height: 20px;
+}
+
+.box1 {
+    background-color: darkred;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    margin: 0;
+    
+
+    
+}
+
+.box2 {
+    background-color: deeppink;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    margin: 0;
+    
+
+
+}
+
+.box3 {
+    background-color: brown;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    margin: 0;
+    
+
+}
+
+.td_image_width {
+    width: 570px;
+}
+
+.table2 img {
+    width: 570px;
+    height: 400px;
+    display: block;
+}
