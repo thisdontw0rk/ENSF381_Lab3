@@ -13,7 +13,7 @@ body {
 
 .navbar:hover {
     background-color: #bdbbbb;
-}
+} /* Fixed missing closing brace here */
 
 .nav-list {
     list-style: none;
